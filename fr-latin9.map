@@ -143,7 +143,7 @@ keycode   8 = +egrave           +seven            dead_grave       Egrave
         alt     keycode   8 = Meta_seven
         alt     shift   keycode   8 = Meta_grave
 
-keycode   9 = +underscore       +eight            backslash        macron
+keycode   9 = +exclam       +eight            backslash        macron
         alt     keycode   9 = Meta_eight
         alt     shift   keycode   9 = Meta_underscore
 
