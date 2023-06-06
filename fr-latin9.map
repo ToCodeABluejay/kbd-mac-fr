@@ -159,7 +159,7 @@ keycode  12 = +parenright       +degree           bracketright     ydiaeresis
         alt     keycode  12 = Meta_parenright
         alt     shift   keycode  12 = Meta_bracketright
 
-keycode  13 = +exclam            +underscore             braceright       threequarters
+keycode  13 = +minus            +underscore             braceright       threequarters
         alt     keycode  13 = Meta_equal
         alt     shift   keycode  13 = Meta_plus
 
